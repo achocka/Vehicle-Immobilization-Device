@@ -5,6 +5,6 @@ The vehicle immobilization device monitors a vehicle's speed and acceleration th
 
 There are four main sections:
 1. App (For Smartphone app for authority, disabling action)
-2. Hardware (All Electrical hardware schematics, pcb's, etc. Include Mechanical Design as well, solidworks files, and concept designs.)
+2. Hardware (All Electrical hardware schematics, pcb's, etc. Includes Mechanical Design, solidworks files, and concept designs.)
 2. Software (Resides on main processcor, Raspberry Pi Zero W)
 2. Testing  (Verification using ECU Simulator)
